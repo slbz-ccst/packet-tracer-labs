@@ -6,6 +6,8 @@ Construir una red simple y configurar los dispositivos de red para lograr conect
 - 1 Laptop
 - 1 Cable Módem (Dispositivo de hardware)
 - 1 Servidor (ISP)
+<img alt="Topología de Red" src="screenshots/topología.png" width="450px">
+
 ## Conceptos fundamentales
 - Configuración básica de redes en dispositivos de punto final (Endpoint Devices)
 - Asignación dinámica de IP's mediante protocolo DHCP (Dynamic Host Configuration Protocol)
