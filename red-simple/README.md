@@ -4,8 +4,9 @@ Construir una red simple y configurar los dispositivos de red para lograr conect
 ## Topología
 - 1 PC
 - 1 Laptop
-- 1 Cable Módem (Dispositivo de hardware)
 - 1 Servidor (ISP)
+- 1 Router inalámbrico
+- 1 Cable Módem (Dispositivo de hardware)
 <img alt="Topología de Red" src="screenshots/topología.png" width="450px">
 
 ## Conceptos fundamentales
